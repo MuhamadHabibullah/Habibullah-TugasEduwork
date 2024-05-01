@@ -1,0 +1,43 @@
+body {
+    height: 1000px;
+}
+
+.button {
+    border-radius: 50%;
+}
+
+nav.navbar a.navbar-brand img.navbar-icon {
+    height: 38px;
+}
+
+.content {
+    color: white;
+}
+
+.content p {
+    font-size: 30px;
+}
+
+/* div ul li .nav-item {
+    position: relative;
+    top
+} */
+
+div .margin-right {
+    margin-right: 30px;
+}
+
+
+i {
+    color: blue;
+    float: inline-start;
+    width: 100px;
+}
+
+div.coba p {
+    text-align: left;
+}
+
+.icon {
+    height: auto;
+}
